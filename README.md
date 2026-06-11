@@ -52,11 +52,6 @@ I enjoy transforming complex datasets into meaningful insights that support data
 * Built KPIs and visual reports to identify performance trends and business insights.
 * Applied data transformation and modeling techniques using Power Query and DAX.
 
-### 👟 Adidas Sales Analysis (Tableau)
-
-* Designed an interactive Tableau dashboard to analyze sales performance.
-* Evaluated regional, product, and category-level sales trends.
-* Delivered actionable insights through dynamic visualizations.
 
 ### 🌾 Agricultural Impact on Climate Analysis (Excel)
 
